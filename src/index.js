@@ -145,3 +145,11 @@ function calculateWinner(squares) {
   }
   return null;
 }
+
+//TODO 1: Display the location for each move in the format (col, row) in the move history list
+//TODO 2: Bold the currently selected item in the move list
+//TODO 3: Rewrite Board to us two loops to make teh squares instead of hard coding them
+//TODO 4: Add a toggle button that lets you sort the moves in either ascending or descending
+//TODO 5: When someone wins, highlight the three squares that caused the win
+//TODO 6: When no one wins, display a message about the result being a draw
+//TODO 7: Keep track of each players W, L, D record
